@@ -13,3 +13,6 @@ This App is used to classifiy the comments as toxit comments or not using machin
 3) Perform exploratory data analysis and get valuable insights from the data.
 
 4) Perform feature selection and select best model which fits the data.
+
+
+## Note - I am working on to add the Complete end-to-end description for this project. Please stay tuned!!
